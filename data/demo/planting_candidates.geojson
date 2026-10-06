@@ -1,0 +1,155 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6209,
+          47.533
+        ]
+      },
+      "properties": {
+        "id": "P-14",
+        "area": "Belváros",
+        "name": "Central pedestrian corridor",
+        "recommended_trees": 4,
+        "estimated_cost_huf": 820000,
+        "duration_minutes": 180,
+        "factors": {
+          "canopy_deficit": 0.9,
+          "heat_exposure": 0.92,
+          "public_benefit": 0.95,
+          "feasibility": 0.82,
+          "green_connectivity": 0.7
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6052,
+          47.5506
+        ]
+      },
+      "properties": {
+        "id": "U-08",
+        "area": "Újkert",
+        "name": "Residential pedestrian connection",
+        "recommended_trees": 5,
+        "estimated_cost_huf": 950000,
+        "duration_minutes": 210,
+        "factors": {
+          "canopy_deficit": 0.88,
+          "heat_exposure": 0.82,
+          "public_benefit": 0.87,
+          "feasibility": 0.86,
+          "green_connectivity": 0.76
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6352,
+          47.5538
+        ]
+      },
+      "properties": {
+        "id": "N-03",
+        "area": "Nagyerdő",
+        "name": "Green edge connection",
+        "recommended_trees": 3,
+        "estimated_cost_huf": 620000,
+        "duration_minutes": 150,
+        "factors": {
+          "canopy_deficit": 0.62,
+          "heat_exposure": 0.66,
+          "public_benefit": 0.82,
+          "feasibility": 0.9,
+          "green_connectivity": 0.94
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6029,
+          47.5168
+        ]
+      },
+      "properties": {
+        "id": "T-07",
+        "area": "Tócóskert",
+        "name": "Residential public-space cluster",
+        "recommended_trees": 5,
+        "estimated_cost_huf": 890000,
+        "duration_minutes": 210,
+        "factors": {
+          "canopy_deficit": 0.86,
+          "heat_exposure": 0.84,
+          "public_benefit": 0.78,
+          "feasibility": 0.82,
+          "green_connectivity": 0.73
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.607,
+          47.5418
+        ]
+      },
+      "properties": {
+        "id": "V-05",
+        "area": "Vénkert",
+        "name": "Walking route",
+        "recommended_trees": 4,
+        "estimated_cost_huf": 760000,
+        "duration_minutes": 180,
+        "factors": {
+          "canopy_deficit": 0.8,
+          "heat_exposure": 0.74,
+          "public_benefit": 0.75,
+          "feasibility": 0.77,
+          "green_connectivity": 0.69
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6471,
+          47.5429
+        ]
+      },
+      "properties": {
+        "id": "S-09",
+        "area": "Sestakert",
+        "name": "Street segment",
+        "recommended_trees": 4,
+        "estimated_cost_huf": 720000,
+        "duration_minutes": 180,
+        "factors": {
+          "canopy_deficit": 0.73,
+          "heat_exposure": 0.71,
+          "public_benefit": 0.68,
+          "feasibility": 0.81,
+          "green_connectivity": 0.65
+        }
+      }
+    }
+  ]
+}

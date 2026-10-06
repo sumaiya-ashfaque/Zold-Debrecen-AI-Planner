@@ -1,0 +1,7 @@
+sensor_id,area,timestamp,temperature_c,humidity_pct,pm25_ug_m3,soil_moisture_pct
+GS-01,Belváros,2026-07-15T07:00:00,27.8,52,16,28
+GS-02,Nagyerdő,2026-07-15T07:00:00,25.3,58,11,35
+GS-03,Tócóskert,2026-07-15T07:00:00,28.6,50,18,22
+GS-04,Újkert,2026-07-15T07:00:00,29.0,48,-4,24
+GS-05,Vénkert,2026-07-15T07:00:00,28.1,51,17,
+GS-06,Sestakert,2026-07-15T07:00:00,61.0,49,14,26

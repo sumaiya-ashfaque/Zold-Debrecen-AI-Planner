@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6412,
+          47.5562
+        ]
+      },
+      "properties": {
+        "id": "T-102",
+        "area": "Nagyerdő",
+        "newly_planted": true,
+        "stress_score": 0.76,
+        "days_since_watering": 5,
+        "base_water_liters": 1400,
+        "service_cost_huf": 18000,
+        "duration_minutes": 45
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6082,
+          47.5191
+        ]
+      },
+      "properties": {
+        "id": "G-14",
+        "area": "Tócóskert",
+        "newly_planted": false,
+        "stress_score": 0.74,
+        "days_since_watering": 6,
+        "base_water_liters": 2200,
+        "service_cost_huf": 21000,
+        "duration_minutes": 50
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6104,
+          47.5481
+        ]
+      },
+      "properties": {
+        "id": "U-18",
+        "area": "Újkert",
+        "newly_planted": false,
+        "stress_score": 0.65,
+        "days_since_watering": 5,
+        "base_water_liters": 1800,
+        "service_cost_huf": 18000,
+        "duration_minutes": 45
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.612,
+          47.5404
+        ]
+      },
+      "properties": {
+        "id": "V-11",
+        "area": "Vénkert",
+        "newly_planted": true,
+        "stress_score": 0.51,
+        "days_since_watering": 3,
+        "base_water_liters": 1100,
+        "service_cost_huf": 16000,
+        "duration_minutes": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6493,
+          47.545
+        ]
+      },
+      "properties": {
+        "id": "S-04",
+        "area": "Sestakert",
+        "newly_planted": false,
+        "stress_score": 0.58,
+        "days_since_watering": 2,
+        "base_water_liters": 900,
+        "service_cost_huf": 20000,
+        "duration_minutes": 45
+      }
+    }
+  ]
+}

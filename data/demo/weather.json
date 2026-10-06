@@ -1,0 +1,8 @@
+{
+  "location": "Debrecen",
+  "date": "2026-07-15",
+  "max_temperature_c": 34.5,
+  "recent_rainfall_mm": 1.8,
+  "forecast_rainfall_mm": 2.5,
+  "forecast_window_hours": 24
+}
